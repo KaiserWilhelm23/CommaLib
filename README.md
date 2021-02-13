@@ -1,6 +1,6 @@
 # CommaLib
 
-This is a library that addes commas to numbers for you.
+This is a library that adds commas to numbers for you.
 
 ex:
 

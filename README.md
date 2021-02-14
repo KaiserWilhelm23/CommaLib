@@ -14,3 +14,11 @@ returns:
 ```
 7,900
 ```
+
+Instalation:
+
+- Windows
+```pip install CommaLib3 ```
+
+- Linux Distros
+```pip3 install CommaLib3```
